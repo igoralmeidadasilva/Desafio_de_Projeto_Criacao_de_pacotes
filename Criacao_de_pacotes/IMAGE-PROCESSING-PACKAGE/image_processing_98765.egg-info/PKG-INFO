@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: image-processing-98765
+Version: 0.0.1
+Home-page: https://github.com/igoralmeidadasilva/Desafio_de_Projeto_Criacao_de_pacotes
+Author: Igor Almeida da Silva
+Author-email: igor.almeidadasilva13@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# image_processing
+
+Description. 
+The package package_name is used to:
+	Processing:
+		- Histogram Matching
+		- Structural Similarity
+		- Resize Image
+	Utils:
+		- Read Image
+		- Save Image
+		- Plot Image
+		- Plot Result
+		- Plot Histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image_processing
+```
+
+## Author
+Igor Almeida da Silva
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
